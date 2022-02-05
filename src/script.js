@@ -139,3 +139,5 @@ const wordBlanks = "it was a "+myNoun+" very "+myAdjective+" and "+myVerb+" too 
 const myArray = ["Hello" , 22];
 // Only change code below this line
 const myArray = [["hello" , 23]];
+const myArray = [50, 60, 70];
+var myData = myArray[0];
