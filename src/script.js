@@ -137,3 +137,5 @@ const wordBlanks = "it was a "+myNoun+" very "+myAdjective+" and "+myVerb+" too 
 // Only change code above this line
 // Only change code below this line
 const myArray = ["Hello" , 22];
+// Only change code below this line
+const myArray = [["hello" , 23]];
