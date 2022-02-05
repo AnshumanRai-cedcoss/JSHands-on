@@ -658,3 +658,7 @@ const testObj = {
   // Only change code below this line
   const playerNumber = 16;  // Change this line
   const player = testObj[playerNumber];   // Change this line 
+  myDog["name"] = "Happy Coder"
+// Only change code below this line
+const playerNumber = 16;  // Change this line
+const player = testObj[playerNumber];   // Change this line 
