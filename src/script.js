@@ -186,3 +186,9 @@ function reusableFunction(){
     }
     functionWithArgs(1,2);
     functionWithArgs(7,9);
+    function timesFive(p){
+        return p*5;
+      }
+      timesFive(5);
+      timesFive(2);
+      timesFive(0);
