@@ -775,5 +775,15 @@ var total = 0
 for (var i = 0; i <= myArr.length - 1; i++) {
   total += myArr[i]
 }
+// Setup
+const myArray = [];
+
+// Only change code below this line
+for(var i=9;i>0;i--)
+{
+  if(i%2 != 0)
+    myArray.push(i)
+}
+console.log(myArray) ;
 
   
