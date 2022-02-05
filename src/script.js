@@ -767,5 +767,13 @@ function phoneticLookup(val) {
   
   ];
   const secondTree = myPlants[1].list[1]; 
+  // Setup
+const myArr = [2, 3, 4, 5, 6];
+
+// Only change code below this line
+var total = 0
+for (var i = 0; i <= myArr.length - 1; i++) {
+  total += myArr[i]
+}
 
   
