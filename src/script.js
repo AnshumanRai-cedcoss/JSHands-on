@@ -135,3 +135,5 @@ const myAdverb = "quickly";
 // Only change code below this line
 const wordBlanks = "it was a "+myNoun+" very "+myAdjective+" and "+myVerb+" too "+myAdverb+"."; // Change this line
 // Only change code above this line
+// Only change code below this line
+const myArray = ["Hello" , 22];
