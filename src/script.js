@@ -6,3 +6,4 @@ var myName ;
 // Setup
 var a;
 a = 7 ;
+var a = 9;
